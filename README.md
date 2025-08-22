@@ -6,7 +6,7 @@
 <p align="center">
 <img src="https://files.catbox.moe/jd0s4p.jpg"/>       
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•QUEEN+ANITA-+V4•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+FASHOLA+AYOMIDE;RELEASED+DATE+22%2F08%2F2025." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•Xeonora+Tech-+V4•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+FASHOLA+AYOMIDE;RELEASED+DATE+22%2F08%2F2025." alt="Typing SVG" /></a>
 </p> 
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-FASHOLA_AYOMIDE-red.svg?style=for-the-badge&logo=github"></a>
@@ -34,7 +34,7 @@
 3. **Deploy on [TALKDROVE](https://host.talkdrove.com)**
 3. **Deploy on [BOT HOSTING PANEL(DISCORD)](https://bot-hosting.net/?aff=1251693529084723300)**
 3. **Deploy on [KATBUMP PANEL(DISCORD)](https://dashboard.katabump.com/auth/login#1ae56c)**
-8. **You can visit Bot whatsapp channel [BY CLICKING HERE](https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L) for more**
+8. **You can visit Bot whatsapp channel [BY CLICKING (https://wa.me/message/HIOGKMSSZVT4M1) for more**
 9. **All Tutorials [Here](https://www.youtube.com/@DavidCyril_TECH)**
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -42,7 +42,7 @@
 ## `Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
 <p align="center">
-<a href="https://wa.me/2349066528353"><img src="https://img.shields.io/badge/Contact David-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/2349060450854"><img src="https://img.shields.io/badge/Contact David-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://www.youtube.com/@DavidCyril_TECH"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@DavidCyril_TECH" /><br>
 <p align="center">
